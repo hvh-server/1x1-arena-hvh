@@ -90,4 +90,3 @@ https://vk.com/wokhvh
 ## На последок
 
 Ещё раз connect: `connect hvh.wok.pink:1488` и `connect 46.174.55.52:1488`. Группа: https://vk.com/wokhvh. Если читал до конца — просто зайди и проверь online на теме 1x1-arena-hvh сам, это быстрее любых споров в чатах.
-
